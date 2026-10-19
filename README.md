@@ -15,6 +15,8 @@ Each Mac needs this one-time upgrade to acquire the updater. Apple silicon and I
 
 ## Personalize the bubble
 
+Settings → Profile lets you choose the assistant’s display name and profile photo. Ask stores a compact local copy of the photo, so moving the original file won’t break it. The bubble and conversation labels follow the new name.
+
 Open the gear in the reply bubble or Ask → Settings (Command–comma). Choose System, Light, or Dark, adjust opacity and dismissal duration, and record up to two shortcuts. Move the bubble by its empty header and resize it with an edge or the bottom-right grip. Position and size are remembered.
 
 Hovering pauses the countdown; leaving starts it again. Sending hides the bubble until Hermes replies. Timed dismissal keeps unsent drafts available through Last reply.
